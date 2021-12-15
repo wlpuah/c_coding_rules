@@ -1,8 +1,7 @@
-#![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
 ---
 
-# mikroSDK Coding Rules
+# Programming C Coding Rules
 
 **Version 1.0.0**
 
