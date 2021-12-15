@@ -1,7 +1,3 @@
-![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
-
-[GO BACK TO MAIN PAGE](../README.md)
-
 [GO BACK TO TEMPLATE LIST](template_list.md)
 
 ---
