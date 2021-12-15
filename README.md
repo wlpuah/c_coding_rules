@@ -1,4 +1,4 @@
-![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
+#![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
 ---
 
